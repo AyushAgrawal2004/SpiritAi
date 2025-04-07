@@ -20,5 +20,5 @@
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/spirit-ai.git
+   git clone https://github.com/AyushAgrawal2004/spirit-ai.git
    cd spirit-ai
