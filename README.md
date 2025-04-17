@@ -2,7 +2,7 @@
 
 **Spiryt AI** is a sleek, futuristic chatbot interface powered by the [OpenRouter API](https://openrouter.ai). With immersive 3D visuals via [Spline](https://spline.design), smooth animations, and a minimalist UI, Spirit AI blends cutting-edge tech with a vibe-first design.
 
-![screenshot](./Screenshot%202025-04-17%121041.png)
+![screenshot](./Screenshot%2025-04-17%121041.png)
 
 ## 🚀 Features
 
